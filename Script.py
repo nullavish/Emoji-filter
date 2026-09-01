@@ -321,7 +321,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
     #PLANS
 
-PREMIUM_TEXT = """<blockquote><tg-emoji emoji-id="6098427834571694679">⭐</tg-emoji> <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
+    PREMIUM_TEXT = """<blockquote><tg-emoji emoji-id="6098427834571694679">⭐</tg-emoji> <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
 <tg-emoji emoji-id="6312090079451947005">🫙</tg-emoji> 07 ᴅᴀʏꜱ - 10 ₹  / 10 star<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>
 <tg-emoji emoji-id="6312090079451947005">🫙</tg-emoji> 15 ᴅᴀʏꜱ - 20 ₹  / 20 star<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>
