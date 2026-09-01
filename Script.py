@@ -1,10 +1,19 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+        START_TXT = """<b>Hey {}, {}</b> <tg-emoji emoji-id="6321173922398084063">⭐</tg-emoji>
+<b>Welcome to </b><tg-emoji emoji-id="5866355487255039002">🚀</tg-emoji><b> No 1 Movies Webseries OTT Search Engine</b><tg-emoji emoji-id="6323306309236038626">🍿</tg-emoji><tg-emoji emoji-id="6321320290588565035">🤖</tg-emoji>
 
-<b>ʜᴇʏ {}, {}</b>
+<tg-emoji emoji-id="6321325964240362008">❗️</tg-emoji><b>ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ʙᴏᴛ</b>
+<tg-emoji emoji-id="6321325964240362008">❗️</tg-emoji><b>ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴀʟʟ ᴍᴏᴠɪᴇs ᴀɴᴅ ᴡᴇʙ sᴇʀɪᴇs</b>
 
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
-"""
+<tg-emoji emoji-id="5258396243666681152">🔎</tg-emoji><i>Just send correct Spelling</i><tg-emoji emoji-id="5454370584861384827">🔍</tg-emoji>
+
+<tg-emoji emoji-id="6321228227964574392">ℹ️</tg-emoji> <b>Jo bhi Movie/Webseries dekhna ho uska naam ENGLISH me naam bheje </b><tg-emoji emoji-id="5371081166013078244">🍿</tg-emoji>
+
+<tg-emoji emoji-id="6321085085294534327">❤️</tg-emoji><b>जो भी मूवी/ वेबसरीज देखना हो english में उसका नाम भेजे</b>
+<tg-emoji emoji-id="6323322084650916948">🟩</tg-emoji><tg-emoji emoji-id="6323498813965213364">🟩</tg-emoji><tg-emoji emoji-id="6320925046223150523">🟩</tg-emoji><tg-emoji emoji-id="6320951799574436533">🟩</tg-emoji><tg-emoji emoji-id="6323445633680154253">🟩</tg-emoji><tg-emoji emoji-id="6321303986892708556">🟩</tg-emoji><tg-emoji emoji-id="6323535943957487433">🟩</tg-emoji><tg-emoji emoji-id="6323113439434644381">🟩</tg-emoji>
+<blockquote><tg-emoji emoji-id="6309872055261077639">🫙</tg-emoji> <b>If you see ads below the bot's name, please click👆</b><tg-emoji emoji-id="6311998609533443577">❌</tg-emoji> <b>to cancel</b></blockquote>
+<tg-emoji emoji-id="5208851133027596379">⬆️</tg-emoji><tg-emoji emoji-id="5208449291592413299">↗️</tg-emoji><tg-emoji emoji-id="5208705232988548657">↘️</tg-emoji><tg-emoji emoji-id="5208473059941431366">⬇️</tg-emoji><tg-emoji emoji-id="5208634091150258712">↙️</tg-emoji><tg-emoji emoji-id="5206382909811866989">⬅️</tg-emoji><tg-emoji emoji-id="5208571109749832230">↖️</tg-emoji><tg-emoji emoji-id="5206558651283684480">➡️</tg-emoji>"""
+
 
 
     GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
@@ -312,41 +321,38 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
     #PLANS
 
+PREMIUM_TEXT = """<blockquote><tg-emoji emoji-id="6098427834571694679">⭐</tg-emoji> <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
-
-    PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
-
-
-◉ 07 ᴅᴀʏꜱ - 10 ₹  / 10 ꜱᴛᴀʀ
-◉ 15 ᴅᴀʏꜱ - 20 ₹  / 20 ꜱᴛᴀʀ
-◉ 30 ᴅᴀʏꜱ - 40 ₹  / 40 ꜱᴛᴀʀ
-◉ 45 ᴅᴀʏꜱ - 55 ₹  / 55 ꜱᴛᴀʀ
-◉ 60 ᴅᴀʏꜱ - 75 ₹  / 75 ꜱᴛᴀʀ
+<tg-emoji emoji-id="6312090079451947005">🫙</tg-emoji> 07 ᴅᴀʏꜱ - 10 ₹  / 10 star<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>
+<tg-emoji emoji-id="6312090079451947005">🫙</tg-emoji> 15 ᴅᴀʏꜱ - 20 ₹  / 20 star<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>
+<tg-emoji emoji-id="6312090079451947005">🫙</tg-emoji> 30 ᴅᴀʏꜱ - 40 ₹  / 40 star<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>
+<tg-emoji emoji-id="6312090079451947005">🫙</tg-emoji> 45 ᴅᴀʏꜱ - 55 ₹  / 55 star<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>
+<tg-emoji emoji-id="6312090079451947005">🫙</tg-emoji> 60 ᴅᴀʏꜱ - 75 ₹  / 75 star<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>
 
 •─────•─────────•─────•
-🏷️ <a href='https://t.me/dreamxbotz'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
+🏷️  
 
-‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
-‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""
+<tg-emoji emoji-id="6312088344285159086">🪪</tg-emoji> ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ
 
-    PREMIUM_STAR_TEXT = """<b><blockquote>ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ: ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ ⭐</blockquote>
+<blockquote><tg-emoji emoji-id="5399884238902277207">❄️</tg-emoji> After sending the screenshot, please give us some time to add you to the premium list</blockquote>"""
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ ᴜꜱɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ.  
+    PREMIUM_STAR_TEXT = """<blockquote>ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ: <b><tg-emoji emoji-id="5866355487255039002">🚀</tg-emoji>ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ <tg-emoji emoji-id="6098427834571694679">⭐</tg-emoji></b></blockquote>
 
-ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @deendayal_Support_group
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ ᴜꜱɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ<tg-emoji emoji-id="6055634884968320993">⭐</tg-emoji>  
 
-ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴀᴍᴏᴜɴᴛ ᴀɴᴅ ᴘᴜʀᴄʜᴀꜱᴇ ᴀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 👇.</b>
-"""
+ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - 
 
-    PREMIUM_UPI_TEXT = """<b><blockquote>ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ: ᴜᴘɪ</blockquote>
+ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴀᴍᴏᴜɴᴛ ᴀɴᴅ ᴘᴜʀᴄʜᴀꜱᴇ ᴀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ <tg-emoji emoji-id="5470177992950946662">👇</tg-emoji>"""
 
-ʏᴏᴜ ᴄᴀɴ ᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴛʜʀᴏᴜɢʜ ᴜᴘɪ , ɴᴇᴛ ʙᴀɴᴋɪɴɢ.
+    PREMIUM_UPI_TEXT = """<blockquote>ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ: ᴜᴘɪ <b><tg-emoji emoji-id="6334433976794483776">🔥</tg-emoji></b></blockquote>
+
+ʏᴏᴜ ᴄᴀɴ ᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴛʜʀᴏᴜɢʜ ᴜᴘɪ , ɴᴇᴛ ʙᴀɴᴋɪɴɢ. <tg-emoji emoji-id="6334435815040486841">😈</tg-emoji><tg-emoji emoji-id="6334433976794483776">🔥</tg-emoji><tg-emoji emoji-id="6334418068235620318">😏</tg-emoji><tg-emoji emoji-id="6334400411625065971">😨</tg-emoji>
 
 💳 ᴜᴘɪ ɪᴅ - <code>{}</code>
 
-💢 ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
+<tg-emoji emoji-id="5870483144100023800">📄</tg-emoji> <b>ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ</b>
 
-‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴘʟᴇᴀꜱᴇ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.</b>"""
+<blockquote><tg-emoji emoji-id="5399884238902277207">❄️</tg-emoji> After sending the screenshot, please give us some time to add you to the premium list</blockquote>"""
 
 
     PREMIUM_END_TEXT = """<b>ʜᴇʏ {},</b>
@@ -361,24 +367,23 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 """
 
     
-    BPREMIUM_TXT = """<blockquote>🎁 <b>ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ</b> :</blockquote>
+    BPREMIUM_TXT = """<b><tg-emoji emoji-id="5399861595834692622">☪️</tg-emoji></b><b> PREMIUM FEATURES</b><tg-emoji emoji-id="5381930481036045779">❤️</tg-emoji>
+<tg-emoji emoji-id="5208851133027596379">⬆️</tg-emoji><tg-emoji emoji-id="5208449291592413299">↗️</tg-emoji><tg-emoji emoji-id="5208705232988548657">↘️</tg-emoji><tg-emoji emoji-id="5208473059941431366">⬇️</tg-emoji><tg-emoji emoji-id="5208634091150258712">↙️</tg-emoji><tg-emoji emoji-id="5206382909811866989">⬅️</tg-emoji><tg-emoji emoji-id="5208571109749832230">↖️</tg-emoji><tg-emoji emoji-id="5206558651283684480">➡️</tg-emoji>
+<tg-emoji emoji-id="5314700597742566172">✍️</tg-emoji> No need to verify
+<tg-emoji emoji-id="6087126697579127217">🔗</tg-emoji> No need to open links
+<tg-emoji emoji-id="5258389041006518073">📂</tg-emoji> Direct files
+<tg-emoji emoji-id="5379891191909196943">❤️</tg-emoji> Ad-free experience
+<tg-emoji emoji-id="6086687528583176680">⏫</tg-emoji> High-speed download links
+<tg-emoji emoji-id="6311966242659902613">🔄</tg-emoji> Multi-player streaming links
+<tg-emoji emoji-id="5873146865637133757">🎤</tg-emoji> Unlimited movies &amp; series
+<tg-emoji emoji-id="5247176827016847212">📞</tg-emoji> Full admin support
+<tg-emoji emoji-id="5258093637450866522">🤖</tg-emoji> Requests will be completed within 1 hour [if available]
 
-○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪꜰʏ
-○ ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋꜱ
-○ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇꜱ   
-○ ᴀᴅ-ꜰʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ 
-○ ʜɪɢʜ-ꜱᴘᴇᴇᴅ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ                         
-○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ ꜱᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋꜱ                           
-○ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ                                                                        
-○ ꜰᴜʟʟ ᴀᴅᴍɪɴ ꜱᴜᴘᴘᴏʀᴛ                              
-○ ʀᴇǫᴜᴇꜱᴛ ᴡɪʟʟ ʙᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ 1ʜ [ ɪꜰ ᴀᴠᴀɪʟᴀʙʟᴇ ]
-
-• ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴘʀᴇᴍɪᴜᴍ ʙʏ ʀᴇꜰᴇʀɪɴɢ ʏᴏᴜʀ ꜰʀɪᴇɴᴅꜱ ᴏʀ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ 
-
+<blockquote>You can get premium by referring your friends, or you can buy the premium service</blockquote>
 •─────•─────────•─────•
-◉ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ : /myplan
+<tg-emoji emoji-id="6312307035429937116">❗️</tg-emoji> <b>Check your active plan</b> /myplan
 
-‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""  
+<blockquote><tg-emoji emoji-id="5399884238902277207">❄️</tg-emoji> After sending the screenshot, please give us some time to add you to the premium list</blockquote>"""  
 
 
     PREPLANS_TXT = PREMIUM_TXT = """<b>👋 ʜᴇʏ {},
@@ -404,8 +409,6 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 ‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ, ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇ ᴛɪᴍᴇ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ.
 
 💎 ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʟᴀɴ → /myplan</b>"""
-
-
 
 
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
