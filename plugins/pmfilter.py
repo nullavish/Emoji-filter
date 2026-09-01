@@ -1400,7 +1400,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "star_info":
         try:
             btn = [
-                InlineKeyboardButton(f"{stars}⭐", callback_data=f"buy_{stars}", style=enums.ButtonStyle.PRIMARY, icon_custom_emoji_id="6098427834571694679")
+                InlineKeyboardButton(f"{stars}", callback_data=f"buy_{stars}", style=enums.ButtonStyle.PRIMARY, icon_custom_emoji_id="5848259999763011021")
                 for stars, days in STAR_PREMIUM_PLANS.items()
             ]
             buttons = [btn[i:i + 2] for i in range(0, len(btn), 2)]
