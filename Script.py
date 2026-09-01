@@ -1,5 +1,5 @@
 class script(object):
-        START_TXT = """<b>Hey {}, {}</b> <tg-emoji emoji-id="6321173922398084063">⭐</tg-emoji>
+    START_TXT = """<b>Hey {}, {}</b> <tg-emoji emoji-id="6321173922398084063">⭐</tg-emoji>
 <b>Welcome to </b><tg-emoji emoji-id="5866355487255039002">🚀</tg-emoji><b> No 1 Movies Webseries OTT Search Engine</b><tg-emoji emoji-id="6323306309236038626">🍿</tg-emoji><tg-emoji emoji-id="6321320290588565035">🤖</tg-emoji>
 
 <tg-emoji emoji-id="6321325964240362008">❗️</tg-emoji><b>ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ-ғɪʟᴛᴇʀ ʙᴏᴛ</b>
